@@ -94,17 +94,19 @@
 
 * Resources
 
-  - Demo app
+  - this
+    https://github.com/immutant/atl-clj-presentation
+  - demo app
     [[https://github.com/immutant/feature-demo/]]
   - Immutant
     http://immutant.org
-  - Docs
+  - docs
     http://immutant.org/documentation/current/apidoc/
   - 1.x -> 2.x migration guide
     http://immutant.org/documentation/current/apidoc/guide-migration.html
   - WildFly
     [[http://wildfly.org]]
-  - Stickers!
+  - stickers!
 
 * Questions?
 
